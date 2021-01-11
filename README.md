@@ -1,2 +1,2 @@
-# tvdStichele.github.io
-Personal website
+# My personal webpage
+
