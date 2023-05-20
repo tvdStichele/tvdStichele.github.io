@@ -32,9 +32,13 @@
 
     /* CSS for the central content */
     .content {
-      margin-top: 100px;
       margin-left: 200px;
       padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
     }
     
     /* CSS for the top navigation */
@@ -44,7 +48,6 @@
       z-index: 2;
       position: fixed;
       width: 100%;
-      justify-content: flex-end; 
     }
 
     /* CSS for the top navigation links */
@@ -74,7 +77,6 @@
   <div class="topnav">
     <a class="active" href="#">Home</a>
     <a href="reading.html">Reading</a>
-    <a href="#">Publications</a>
   </div>
   
   <div class="sidenav">
