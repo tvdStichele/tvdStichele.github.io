@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "HEADSHOTS-37-cropped.jpg"
   name             : "Thomas Vanderstichele"
   pronouns         : # example: "she/her"  
   bio              : "PhD student, Wellcome Sanger Institute, Cambridge, UK"
